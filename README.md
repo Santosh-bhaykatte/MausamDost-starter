@@ -1,7 +1,11 @@
 
 # Project Title
 
-A brief description of what this project does and who it's for
+REAL TIME WEATHER FORECASTING
+
+# Objective
+
+This project aims to develop a Real Time Weather Forecasting system utilizing a weather API for fetching live data. The user interface will be built using HTML, CSS, and pure Vanilla JavaScript to create an intuitive and responsive platform.
 
 ## Tech Stack
 
@@ -13,9 +17,15 @@ Insert gif or link to demo
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- 1. Live Data Retrieval: Utilize a weather API to fetch real-time weather updates.
+
+- 2. User-Friendly Interface: Design an intuitive and visually appealing UI using HTML, CSS, and Vanilla JS.
+
+- 3. Responsive Design: Ensure compatibility across various devices for a seamless user experience.
+
+- 4. Location-Based Forecast: Allow users to input their location or automatically detect it for personalized weather updates. 
+
+- 5. Detailed Information: Display crucial weather parameters such as temperature, humidity, wind speed, and forecasts.
 
 ## Screenshots
 
@@ -50,12 +60,8 @@ Open with live server
 
 ## Authors
 
-- [@codewithsadee](https://www.github.com/codewithsadee)
+- [@santosh-bhaykatte](https://github.com/santosh-bhaykatte)
 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-## Support
-
-For support, Join my [Patreon Comunity](https://www.patreon.com/codewithsadee/membership) or Subscribe My [YouTube Channel](https://youtube.com/@codewithsadee).
