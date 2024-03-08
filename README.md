@@ -29,7 +29,7 @@ Insert gif or link to demo
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](chrome-capture-2024-2-8.png)
 
 ## Run Locally
 
