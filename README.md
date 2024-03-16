@@ -1,20 +1,18 @@
-
 # Project Title
 
 REAL TIME WEATHER FORECASTING
 
 # Objective
 
-This project aims to develop a Real Time Weather Forecasting system utilizing a weather API for fetching live data. The user interface will be built using HTML, CSS, and pure Vanilla JavaScript to create an intuitive and responsive platform.
+This project aims to develop a Real Time Weather Forecasting system utilizing 
+a weather API for fetching live data. The user interface will be built using 
+HTML, CSS, and pure Vanilla JavaScript to create an intuitive and responsive platform.
 
 ## Tech Stack
 
-**Client:** HTML, CSS, JavaScript, API
-
-## Demo
-
-Insert gif or link to demo
-
+**Client:** HTML, CSS, JavaScript
+**Server:** API, POSTMAN
+ 
 ## Features
 
 - 1. Live Data Retrieval: Utilize a weather API to fetch real-time weather updates.
@@ -26,6 +24,14 @@ Insert gif or link to demo
 - 4. Location-Based Forecast: Allow users to input their location or automatically detect it for personalized weather updates. 
 
 - 5. Detailed Information: Display crucial weather parameters such as temperature, humidity, wind speed, and forecasts.
+
+## Authors
+
+- [@santosh-bhaykatte](https://github.com/santosh-bhaykatte)
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
 ## Screenshots
 
@@ -57,11 +63,3 @@ Open with live server
   npm run start
 ```
 
-
-## Authors
-
-- [@santosh-bhaykatte](https://github.com/santosh-bhaykatte)
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)

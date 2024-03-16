@@ -389,11 +389,11 @@ export const updateWeather = function (lat, lon) {
 
             }
 
-            /**
-             * 5 DAY FORECAST SECTION
-             */
+/**
+ * 5 DAY FORECAST SECTION
+*/
 
-            forecastSection.innerHTML = `
+         forecastSection.innerHTML = `
             <h2 class="title-2" id="forecast-label">5 Days Forecast
             </h2>
 
